@@ -23,7 +23,7 @@ I build data projects that move from raw data ingestion to transformation, valid
 
 ## Featured Projects
 
-### [AWS Air Quality Analytics Pipeline](/ENikopoulos/aws-air-quality-analytics-pipeline)
+### [AWS Air Quality Analytics Pipeline](https://github.com/ENikopoulos/aws-air-quality-analytics-pipeline)
 
 Serverless AWS data pipeline that ingests air-quality data from the Open-Meteo API and transforms it into curated analytics-ready datasets.
 
@@ -39,7 +39,7 @@ Serverless AWS data pipeline that ingests air-quality data from the Open-Meteo A
 
 ---
 
-### [Olist E-Commerce Pipeline](/ENikopoulos/Olist-E-Commerce-Pipeline)
+### [Olist E-Commerce Pipeline](https://github.com/ENikopoulos/Olist-E-Commerce-Pipeline)
 
 Dockerized local data engineering pipeline for the Olist e-commerce dataset, including transformation, validation, PostgreSQL loading, orchestration, and dashboarding.
 
@@ -55,7 +55,7 @@ Dockerized local data engineering pipeline for the Olist e-commerce dataset, inc
 
 ---
 
-### [Serverless AWS Data Lake Pipeline](/ENikopoulos/serverless-aws-data-lake-pipeline)
+### [Serverless AWS Data Lake Pipeline](https://github.com/ENikopoulos/serverless-aws-data-lake-pipeline)
 
 AWS data lake pipeline for transforming raw Olist e-commerce data into curated Parquet datasets queryable with Athena.
 
@@ -71,7 +71,7 @@ AWS data lake pipeline for transforming raw Olist e-commerce data into curated P
 
 ---
 
-### [PostgreSQL Jobs Project](/ENikopoulos/PostgreSQL_Jobs_Project)
+### [PostgreSQL Jobs Project](https://github.com/ENikopoulos/PostgreSQL_Jobs_Project)
 
 SQL analytics project using job postings data to analyze salaries, skills, and market trends across data-related roles.
 
